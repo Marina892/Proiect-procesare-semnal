@@ -1,0 +1,1 @@
+-force-include-file "MainProiect.c";"d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c" -force-include-file "MainProiect.h";"d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.h" 

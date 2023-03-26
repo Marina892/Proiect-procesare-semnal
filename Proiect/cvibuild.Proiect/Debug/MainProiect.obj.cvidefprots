@@ -1,0 +1,90 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:50:5"
+
+[OnPanel]
+Class="Function"
+Prototype="int OnPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:65:17"
+
+[OnPanel_2]
+Class="Function"
+Prototype="int OnPanel_2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:84:17"
+
+[FiltruDeMediere]
+Class="Function"
+Prototype="double *FiltruDeMediere(int nSamples);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:103:9"
+
+[FiltruAlpha]
+Class="Function"
+Prototype="double *FiltruAlpha(double alpha);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:125:9"
+
+[OnLoad]
+Class="Function"
+Prototype="int OnLoad(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:136:17"
+
+[On_Next]
+Class="Function"
+Prototype="int On_Next(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:199:17"
+
+[On_Prev]
+Class="Function"
+Prototype="int On_Prev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:235:17"
+
+[OnFilter]
+Class="Function"
+Prototype="int OnFilter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:256:17"
+
+[OnApply]
+Class="Function"
+Prototype="int OnApply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:299:17"
+
+[OnDerivative]
+Class="Function"
+Prototype="int OnDerivative(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:333:17"
+
+[OnEnvelope]
+Class="Function"
+Prototype="int OnEnvelope(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:362:17"
+
+[OnSwitchPanel]
+Class="Function"
+Prototype="int OnSwitchPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:382:17"
+
+[OnWindowType]
+Class="Function"
+Prototype="int OnWindowType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:416:17"
+
+[OnPrevButton]
+Class="Function"
+Prototype="int OnPrevButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:762:17"
+
+[OnNextButton]
+Class="Function"
+Prototype="int OnNextButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:824:17"
+
+[OnSelectGraph]
+Class="Function"
+Prototype="int OnSelectGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:948:17"
+
+[OnSave]
+Class="Function"
+Prototype="int OnSave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\Facultate III\Achizitia si Prelucrarea datelor\MarinaP\Proiect\MainProiect.c:1003:17"
+
